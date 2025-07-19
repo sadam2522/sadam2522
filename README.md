@@ -1,45 +1,44 @@
 <h1 align="center">Hi there 👋, I'm Sadam!</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/2Ygy0khwew7bC/giphy.gif" width="120" alt="Pacman"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7F72A&center=true&vCenter=true&width=435&lines=Hi+I'm+Sadam!;A+web+and+ML+developer;Let’s+eat+code+like+Pacman!+🎮" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 </p>
 
 ---
 
 ## 🚀 Tentang Saya
 
-Halo! Saya **Sadam**, seorang pengembang web dan data enthusiast dari Indonesia. Saya suka membangun aplikasi yang bermanfaat, memanfaatkan kekuatan **machine learning**, **IoT**, dan **web development** untuk menciptakan solusi nyata.
+Halo! Saya **Sadam**, seorang pengembang yang antusias dalam dunia teknologi, khususnya di bidang:
 
-- 🔭 Saya sedang mengembangkan aplikasi prediksi kualitas air dan sistem pemantauan berbasis sensor
-- 🌱 Saat ini saya belajar **AI & Deep Learning**
-- 💬 Tanyakan saya apa pun tentang Python, PHP, atau Data Science
-- 📫 Kontak saya: `sadam2522@gmail.com`
+- 💻 **Pengembangan Web** (PHP, Laravel, CodeIgniter, HTML/CSS/JavaScript)
+- 🤖 **Machine Learning & AI**
+- 🌐 **IoT dan Data dari Perangkat Sensor**
+- 📊 **Visualisasi Data dan Analisis Statistik**
+- 📚 Saat ini saya sedang belajar dan membangun proyek open-source & edukatif
+
+Saya percaya bahwa **teknologi bisa membawa perubahan besar** jika digunakan dengan bijak dan kolaboratif.
 
 ---
 
 ## 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/sadam2522" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/sadam2522" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/sadam2522" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+  <a href="https://twitter.com/sadam2522" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:sadam2522@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:sadam2522@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/sadam2522">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
+  <a href="https://github.com/sadam2522" target="blank">
+    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Teknologi & Tools
+## 🛠️ Teknologi & Tools yang Saya Gunakan
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -63,16 +62,16 @@ Halo! Saya **Sadam**, seorang pengembang web dan data enthusiast dari Indonesia.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadam2522&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadam2522&layout=compact&theme=tokyonight" width="50%" />
 </p>
 
 ---
 
-## 🎯 Proyek Terbaru
+## 🌱 Proyek Terbaru
 
-- 💧 **Water Quality Prediction** – Prediksi potabilitas air berbasis ML & IoT
-- 🧠 **Credit Card Fraud Detection** – Deteksi penipuan kartu kredit dengan SMOTE & ML
-- 📊 **Dashboard Analisis** – Visualisasi data interaktif pakai Streamlit
+- 💧 Prediksi Kualitas Air berbasis IoT & Machine Learning
+- 🔍 Sistem Deteksi Penipuan Kartu Kredit dengan ML
+- 📊 Dashboard Analisis Data Interaktif menggunakan Flask dan Streamlit
 
 ---
 
@@ -83,5 +82,5 @@ Halo! Saya **Sadam**, seorang pengembang web dan data enthusiast dari Indonesia.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7F72A&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C9FF&height=120&section=footer"/>
 </p>
